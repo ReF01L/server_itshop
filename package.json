@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReF01L/server_itshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReF01L/server_itshop/issues"
+  },
+  "homepage": "https://github.com/ReF01L/server_itshop#readme",
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "pg": "^8.1.0",
+    "uuid": "^8.0.0"
+  }
+}
